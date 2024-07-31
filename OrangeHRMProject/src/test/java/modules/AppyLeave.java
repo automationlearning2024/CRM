@@ -16,6 +16,10 @@ import org.apache.logging.log4j.*;
 
 public class AppyLeave {
 	
+
+	
+	
+	
 	Logger log = LogManager.getLogger(AppyLeave.class);
 	
    WebDriver driver;  
@@ -32,7 +36,8 @@ public class AppyLeave {
 		driver =bt.loginToApplication();
 		alobject= new ApplyleaveLocators();
 		
-
+		
+		System.out.println(" testing");
 		
 	}
 	

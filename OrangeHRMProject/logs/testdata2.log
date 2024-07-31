@@ -1,0 +1,6 @@
+07:54:58.159 [main] INFO  base.BaseTest - ------username value is entered------------
+07:54:58.313 [main] INFO  base.BaseTest - ------password value is entered------------
+07:54:58.429 [main] INFO  base.BaseTest - ------submit button is clicked------------
+07:55:03.981 [main] INFO  base.BaseTest - ------username value is entered------------
+07:55:04.203 [main] INFO  base.BaseTest - ------password value is entered------------
+07:55:04.273 [main] INFO  base.BaseTest - ------submit button is clicked------------

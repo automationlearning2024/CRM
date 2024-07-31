@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-18T07:46:49 IST" name="Suite" finished-at="2024-07-18T07:46:52 IST" duration-ms="3448">
+    <groups>
+    </groups>
+    <test started-at="2024-07-18T07:46:49 IST" name="Test" finished-at="2024-07-18T07:46:52 IST" duration-ms="3448">
+      <class name="modules.Timesheet">
+        <test-method signature="clickOnTimeSheetIcon()[pri:0, instance:modules.Timesheet@988246e]" started-at="2024-07-18T07:46:49 IST" name="clickOnTimeSheetIcon" finished-at="2024-07-18T07:46:49 IST" duration-ms="597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnTimeSheetIcon -->
+      </class> <!-- modules.Timesheet -->
+      <class name="modules.AppyLeave">
+        <test-method signature="clickOnApplyLeaveIcon()[pri:0, instance:modules.AppyLeave@53dfacba]" started-at="2024-07-18T07:46:49 IST" name="clickOnApplyLeaveIcon" finished-at="2024-07-18T07:46:52 IST" duration-ms="2638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnApplyLeaveIcon -->
+      </class> <!-- modules.AppyLeave -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
